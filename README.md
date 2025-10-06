@@ -2,4 +2,7 @@
 Eerste project om github te testen
 
 # Extra content
-Dit is extra content om te testen dat push en pull werkt.
+Dit is extra content om te testen dat push werkt.
+
+# Tweede hoofdstuk
+Nog een stuk tekst om pull te testen.
